@@ -16,14 +16,14 @@ This is a fork of the [Automattic Gutenberg Sketch File](https://github.com/Auto
 ## GIFs 🎬
 
 **Nested symbol names** make it easier to find what you need
-![Nested symbols](https://cldup.com/eNRAc5s702.gif | width=650)  
+<img src="https://cldup.com/eNRAc5s702.gif" alt="Nested symbols" width="650">  
 
 **Symbol overrides** (including styles!), easily change colors, fonts, and images
-![Symbol overrides](https://cldup.com/HLCtsY1Clh.gif | width=650)  
+<img src="https://cldup.com/HLCtsY1Clh.gif" alt="Symbol overrides" width="650">  
 Note: works with the new Sketch 52 Data feature to pick images
 
 **Sizing modes** for easy responsive tweaks
-![sizing modes](https://cldup.com/xZ2r2NbQ5g.gif | width=650)  
+<img src="https://cldup.com/xZ2r2NbQ5g.gif" alt="sizing modes" width="650">  
 Bonus: you can add an image to a pullquote
 
 
