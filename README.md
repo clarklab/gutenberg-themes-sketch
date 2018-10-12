@@ -1,6 +1,35 @@
 # 💎 Gutenberg Sketch File
 
-**Note: in progress, more updates coming soon...**
+## Updates 🔨
+
+This is a fork of the [Automattic Gutenberg Sketch File](https://github.com/Automattic/gutenberg-themes-sketch). It hadn't been updated in a few months, and Sketch 52 is out with [a slew of new features](https://blog.sketchapp.com/dark-mode-data-a-brand-new-look-and-more-in-sketch-52-e462c8a64d00), so I figured an update was in order. In short:
+
+- Layer/type styles in symbols (overrides colors, fonts) *new in Sketch 52*
+- Updated naming conventions (for grouping/nesting)
+- Resizing options fixed (responsive symbols)
+- Type system rework (face, scaling)
+- Added outline button
+- Goofy artwork (from Vecteezy)
+- Color scheme in place (with named styles: primary, dark, highlight, etc)
+- Image/color shade (overlay color/image in cover, pullquote)
+
+## GIFs 🎬
+
+**Nested symbol names** make it easier to find what you need
+![Nested symbols](https://cldup.com/eNRAc5s702.gif)
+
+**Symbol overrides** (including styles!), easily change colors, fonts, and images
+![Symbol overrides](https://cldup.com/HLCtsY1Clh.gif)
+Note: works with the new Sketch 52 Data feature to pick images
+
+**Sizing modes** for easy responsive tweaks
+![sizing modes](https://cldup.com/xZ2r2NbQ5g.gif)
+Bonus: you can add an image to a pullquote
+
+
+## Summary
+
+*This is a slightly tweaked version of the original readme.*
 
 This repository hosts a [Sketch](https://sketchapp.com) file that is built to help you design WordPress themes with the block-based [Gutenberg](https://github.com/WordPress/gutenberg/) editor in mind. 
 
